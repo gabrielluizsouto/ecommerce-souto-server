@@ -1,0 +1,250 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "obvious Matti",
+      "image": "https://picsum.photos/400?image=290",
+      "stock": 65,
+      "price": "839.32",
+      "rating": 4,
+      "variants": [
+        "harlequin",
+        "aqua",
+        "plum"
+      ],
+      "category": "Games"
+    },
+    {
+      "id": 1,
+      "name": "crucial Charmion",
+      "image": "https://picsum.photos/400?image=815",
+      "stock": 32,
+      "price": "2559.50",
+      "rating": 3,
+      "variants": [
+        "copper"
+      ],
+      "category": "Sound systems"
+    },
+    {
+      "id": 2,
+      "name": "arbitrary Leena",
+      "image": "https://picsum.photos/400?image=633",
+      "stock": 50,
+      "price": "4363.33",
+      "rating": 4,
+      "variants": [
+        "rose",
+        "cyan"
+      ],
+      "category": "Games"
+    },
+    {
+      "id": 3,
+      "name": "watery Daphene",
+      "image": "https://picsum.photos/400?image=840",
+      "stock": 6,
+      "price": "2274.16",
+      "rating": 3,
+      "variants": [],
+      "category": "Sound systems"
+    },
+    {
+      "id": 4,
+      "name": "broad Giselle",
+      "image": "https://picsum.photos/400?image=73",
+      "stock": 4,
+      "price": "604.55",
+      "rating": 5,
+      "variants": [],
+      "category": "TVs"
+    },
+    {
+      "id": 5,
+      "name": "bloody Laurella",
+      "image": "https://picsum.photos/400?image=289",
+      "stock": 49,
+      "price": "4411.30",
+      "rating": 1,
+      "variants": [
+        "copper",
+        "beige",
+        "salmon"
+      ],
+      "category": "Sound systems"
+    },
+    {
+      "id": 6,
+      "name": "spotless Wenona",
+      "image": "https://picsum.photos/400?image=751",
+      "stock": 37,
+      "price": "1447.52",
+      "rating": 5,
+      "variants": [],
+      "category": "Games"
+    },
+    {
+      "id": 7,
+      "name": "normal Emilee",
+      "image": "https://picsum.photos/400?image=446",
+      "stock": 73,
+      "price": "4006.53",
+      "rating": 3,
+      "variants": [
+        "gray",
+        "gray",
+        "olive"
+      ],
+      "category": "TVs"
+    },
+    {
+      "id": 8,
+      "name": "petite Henrie",
+      "image": "https://picsum.photos/400?image=239",
+      "stock": 0,
+      "price": "4447.58",
+      "rating": 2,
+      "variants": [
+        "turquoise",
+        "green",
+        "tomato"
+      ],
+      "category": "Sound systems"
+    },
+    {
+      "id": 9,
+      "name": "optimistic Margot",
+      "image": "https://picsum.photos/400?image=416",
+      "stock": 40,
+      "price": "3812.71",
+      "rating": 1,
+      "variants": [
+        "amber",
+        "peach"
+      ],
+      "category": "Games"
+    },
+    {
+      "id": 10,
+      "name": "criminal Josepha",
+      "image": "https://picsum.photos/400?image=459",
+      "stock": 2,
+      "price": "3168.18",
+      "rating": 2,
+      "variants": [
+        "aquamarine"
+      ],
+      "category": "TVs"
+    },
+    {
+      "id": 11,
+      "name": "firm Freddie",
+      "image": "https://picsum.photos/400?image=340",
+      "stock": 2,
+      "price": "2031.85",
+      "rating": 5,
+      "variants": [
+        "sapphire"
+      ],
+      "category": "Games"
+    },
+    {
+      "id": 12,
+      "name": "early Elke",
+      "image": "https://picsum.photos/400?image=641",
+      "stock": 80,
+      "price": "985.65",
+      "rating": 3,
+      "variants": [],
+      "category": "Phones"
+    },
+    {
+      "id": 13,
+      "name": "oral Daffy",
+      "image": "https://picsum.photos/400?image=509",
+      "stock": 32,
+      "price": "2499.60",
+      "rating": 4,
+      "variants": [
+        "gray",
+        "gray",
+        "orange"
+      ],
+      "category": "Phones"
+    },
+    {
+      "id": 14,
+      "name": "causal Nikaniki",
+      "image": "https://picsum.photos/400?image=915",
+      "stock": 84,
+      "price": "4954.17",
+      "rating": 5,
+      "variants": [
+        "brown",
+        "blush"
+      ],
+      "category": "TVs"
+    },
+    {
+      "id": 15,
+      "name": "missing Jobye",
+      "image": "https://picsum.photos/400?image=799",
+      "stock": 77,
+      "price": "4089.19",
+      "rating": 4,
+      "variants": [
+        "emerald",
+        "gray",
+        "moccasin"
+      ],
+      "category": "Phones"
+    },
+    {
+      "id": 16,
+      "name": "eventual Alexine",
+      "image": "https://picsum.photos/400?image=793",
+      "stock": 18,
+      "price": "3926.88",
+      "rating": 1,
+      "variants": [
+        "amber",
+        "orange"
+      ],
+      "category": "TVs"
+    },
+    {
+      "id": 17,
+      "name": "grotesque Corrine",
+      "image": "https://picsum.photos/400?image=84",
+      "stock": 74,
+      "price": "4955.21",
+      "rating": 4,
+      "variants": [
+        "brown",
+        "red",
+        "brown"
+      ],
+      "category": "Computers"
+    },
+    {
+      "id": 18,
+      "name": "natural Kylynn",
+      "image": "https://picsum.photos/400?image=232",
+      "stock": 76,
+      "price": "3350.75",
+      "rating": 4,
+      "variants": [],
+      "category": "Phones"
+    },
+    {
+      "id": 19,
+      "name": "quickest Francyne",
+      "image": "https://picsum.photos/400?image=872",
+      "stock": 12,
+      "price": "3349.33",
+      "rating": 2,
+      "variants": [],
+      "category": "Phones"
+    }
+  ]
+}
